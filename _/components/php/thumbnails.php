@@ -2,7 +2,7 @@
    <div class="row">
       <div class="col-sm-6 col-md-4">
          <div class="thumbnail">
-            <img src="images/thumb/video.jpg/200x100" alt="How it Works">  
+            <img src="../../tradecast/images/thumb/video.jpg" alt="How it Works">  
             <div style="text-align:center;">
                <div class="caption">
                   <h3>How it Works</h3>
@@ -19,7 +19,7 @@
 
       <div class="col-sm-6 col-md-4">
          <div class="thumbnail">
-            <img src="images/thumb/screen.jpg/360x100" alt="Generic placeholder thumbnail">
+            <img src="../../tradecast/images/thumb/screen.jpg" alt="Generic placeholder thumbnail">
             <div style="text-align:center;">
                <div class="caption">
                   <h3>Screenshots</h3>
@@ -36,7 +36,7 @@
 
       <div class="col-sm-6 col-md-4">
          <div class="thumbnail">
-            <img src="images/thumb/statistics.jpg/360x100" alt="Generic placeholder thumbnail"> 
+            <img src="/tradecast/images/thumb/statistics.jpg" alt="Generic placeholder thumbnail"> 
             <div style="text-align:center;">
                <div class="caption">
                   <h3>Statistics</h3>
