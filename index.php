@@ -16,6 +16,9 @@
         <?php include "_/components/php/snippet-carousel.php"; ?>
         <section class="main col col-lg-12">
         	<?php include "_/components/php/article-intro.php"; ?>
+          <?php include "_/components/php/thumbnails.php"; ?>
+         
+
         
         </section> <!-- main -->
       </div> <!-- content -->
