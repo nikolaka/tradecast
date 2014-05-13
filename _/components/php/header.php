@@ -1,11 +1,11 @@
 <div class="content row">
 	<div class="col-lg-12">
-		<header class="clearfix">
+		<header class="clearfix" align="center">
 			<section id "branding">
-				<a href="index.php"><img src="images/misc/tradecast_logo.png" alt="Logo for Tradecast"></a>
+				<a href="index.php"><img src="/tradecast/images/misc/tradecast_logo.png" alt="Logo for Tradecast"></a>
 			</section><!-- branding -->
 
-			<section class="navbar navbar-fixed-top navbar-inverse">
+			<section class="navbar navbar-inverse">
 				<ul class="nav navbar-nav"> 
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About Tradecast</a></li>
